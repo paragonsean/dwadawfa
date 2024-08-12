@@ -1,0 +1,33 @@
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.4 MB/1,000 MB - admin_fanznews > Start upgrade from 0.0.0
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.3 MB/1,000 MB - admin_fanznews > Array
+(
+    [`heOsWlz9_newsletter_emails`] => Created table `heOsWlz9_newsletter_emails`
+)
+
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.3 MB/1,000 MB - admin_fanznews > Array
+(
+    [`heOsWlz9_newsletter_sent`] => Created table `heOsWlz9_newsletter_sent`
+)
+
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.4 MB/1,000 MB - admin_fanznews > Array
+(
+    [`heOsWlz9_newsletter`] => Created table `heOsWlz9_newsletter`
+)
+
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.3 MB/1,000 MB - admin_fanznews > Array
+(
+    [`heOsWlz9_newsletter_user_logs`] => Created table `heOsWlz9_newsletter_user_logs`
+)
+
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.3 MB/1,000 MB - admin_fanznews > Array
+(
+    [`heOsWlz9_newsletter_user_meta`] => Created table `heOsWlz9_newsletter_user_meta`
+)
+
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.3 MB/1,000 MB - admin_fanznews > Array
+(
+    [`heOsWlz9_newsletter_stats`] => Created table `heOsWlz9_newsletter_stats`
+)
+
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.4 MB/1,000 MB - admin_fanznews > Backing up options of 0.0.0
+26-11-2023 03:11:25 - INFO  - 8.0.4 - 32.4 MB/1,000 MB - admin_fanznews > End

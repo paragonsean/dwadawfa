@@ -1,0 +1,1138 @@
+01-05-2024 06:00:20 - ERROR - 8.3.0 - 65.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+01-05-2024 06:00:20 - ERROR - 8.3.0 - 66.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.1 MB/1,000 MB - [cron] > Requested size larger than the original one
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.2 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_110421.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_110421.png
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.2 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_110421.png
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+01-05-2024 06:00:21 - ERROR - 8.3.0 - 66.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_110489.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_110489.png
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_110489.png
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Requested size larger than the original one
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_110481.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_110481.png
+02-05-2024 06:00:03 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_110481.png
+03-05-2024 06:00:43 - ERROR - 8.3.0 - 75.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.4 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_110722.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_110722.png
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.4 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_110722.png
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.4 MB/1,000 MB - [cron] > Requested size larger than the original one
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.5 MB/1,000 MB - [cron] > Requested size larger than the original one
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+03-05-2024 06:00:44 - ERROR - 8.3.0 - 75.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:09 - ERROR - 8.3.0 - 97.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Requested size larger than the original one
+06-05-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:10 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:10 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+06-05-2024 06:00:10 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:20 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:20 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:20 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Requested size larger than the original one
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_111294.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_111294.png
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_111294.png
+07-05-2024 06:00:21 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:00 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:00 - ERROR - 8.3.0 - 98.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:00 - ERROR - 8.3.0 - 98.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:01 - ERROR - 8.3.0 - 98.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:01 - ERROR - 8.3.0 - 98.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:01 - ERROR - 8.3.0 - 98.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:01 - ERROR - 8.3.0 - 98.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+08-05-2024 06:00:01 - ERROR - 8.3.0 - 98.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:01 - ERROR - 8.3.0 - 30.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:01 - ERROR - 8.3.0 - 30.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:01 - ERROR - 8.3.0 - 30.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:01 - ERROR - 8.3.0 - 30.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:02 - ERROR - 8.3.0 - 30.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:02 - ERROR - 8.3.0 - 30.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:02 - ERROR - 8.3.0 - 30.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+09-05-2024 06:00:02 - ERROR - 8.3.0 - 30.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_111933.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_111933.png
+10-05-2024 06:00:10 - ERROR - 8.3.0 - 76.3 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_111933.png
+13-05-2024 06:00:22 - ERROR - 8.3.0 - 98.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+13-05-2024 06:00:22 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+13-05-2024 06:00:22 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+13-05-2024 06:00:23 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+13-05-2024 06:00:23 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+13-05-2024 06:00:23 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+13-05-2024 06:00:23 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+13-05-2024 06:00:23 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:02 - ERROR - 8.3.0 - 77.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:02 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:02 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Requested size larger than the original one
+14-05-2024 06:00:02 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:02 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:03 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:03 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:03 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+14-05-2024 06:00:03 - ERROR - 8.3.0 - 77.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:22 - ERROR - 8.3.0 - 100.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Requested size larger than the original one
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+15-05-2024 06:00:23 - ERROR - 8.3.0 - 100.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:10 - ERROR - 8.3.0 - 84.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:10 - ERROR - 8.3.0 - 84.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:10 - ERROR - 8.3.0 - 84.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:10 - ERROR - 8.3.0 - 84.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:11 - ERROR - 8.3.0 - 84.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:11 - ERROR - 8.3.0 - 84.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:11 - ERROR - 8.3.0 - 84.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+16-05-2024 06:00:11 - ERROR - 8.3.0 - 84.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:01 - ERROR - 8.3.0 - 97.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:01 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:01 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:01 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:02 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:02 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:02 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+17-05-2024 06:00:02 - ERROR - 8.3.0 - 97.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:11 - ERROR - 8.3.0 - 85.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:12 - ERROR - 8.3.0 - 85.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:12 - ERROR - 8.3.0 - 85.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:12 - ERROR - 8.3.0 - 85.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:12 - ERROR - 8.3.0 - 85.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:12 - ERROR - 8.3.0 - 85.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:12 - ERROR - 8.3.0 - 85.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+20-05-2024 06:00:13 - ERROR - 8.3.0 - 85.8 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:01 - ERROR - 8.3.0 - 97.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_113941.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_113941.png
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_113941.png
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Requested size larger than the original one
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+21-05-2024 06:00:02 - ERROR - 8.3.0 - 98.0 MB/1,000 MB - [cron] > Requested size larger than the original one
+22-05-2024 06:00:04 - ERROR - 8.3.0 - 67.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-05-2024 06:00:04 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-05-2024 06:00:04 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-05-2024 06:00:04 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Requested size larger than the original one
+22-05-2024 06:00:04 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-05-2024 06:00:04 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-05-2024 06:00:05 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-05-2024 06:00:05 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-05-2024 06:00:05 - ERROR - 8.3.0 - 67.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:07 - ERROR - 8.3.0 - 82.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:07 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:07 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:07 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:07 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:08 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:08 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Requested size larger than the original one
+23-05-2024 06:00:08 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-05-2024 06:00:08 - ERROR - 8.3.0 - 82.8 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_114299.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_114299.png
+23-05-2024 06:00:08 - ERROR - 8.3.0 - 82.8 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_114299.png
+23-05-2024 06:00:08 - ERROR - 8.3.0 - 82.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:05 - ERROR - 8.3.0 - 95.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Requested size larger than the original one
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/05/news_114604.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/05/news_114604.png
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/05/news_114604.png
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Requested size larger than the original one
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-05-2024 06:00:06 - ERROR - 8.3.0 - 96.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:02 - ERROR - 8.3.3 - 98.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:03 - ERROR - 8.3.3 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:03 - ERROR - 8.3.3 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:04 - ERROR - 8.3.3 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:04 - ERROR - 8.3.3 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:04 - ERROR - 8.3.3 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:04 - ERROR - 8.3.3 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:00:04 - ERROR - 8.3.3 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+27-05-2024 06:15:30 - FATAL - 8.3.3 - 98.1 MB/1,000 MB - [cron] > Delivery lock already set!
+28-05-2024 06:00:06 - ERROR - 8.3.3 - 96.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+28-05-2024 06:00:06 - ERROR - 8.3.3 - 96.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+28-05-2024 06:00:06 - ERROR - 8.3.3 - 96.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+28-05-2024 06:00:06 - ERROR - 8.3.3 - 96.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+28-05-2024 06:00:07 - ERROR - 8.3.3 - 96.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+28-05-2024 06:00:07 - ERROR - 8.3.3 - 96.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+28-05-2024 06:00:07 - ERROR - 8.3.3 - 96.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+28-05-2024 06:00:07 - ERROR - 8.3.3 - 96.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:20 - ERROR - 8.3.3 - 96.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:20 - ERROR - 8.3.3 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:21 - ERROR - 8.3.3 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:21 - ERROR - 8.3.3 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:21 - ERROR - 8.3.3 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:21 - ERROR - 8.3.3 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:21 - ERROR - 8.3.3 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-05-2024 06:00:21 - ERROR - 8.3.3 - 97.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:03 - ERROR - 8.3.3 - 72.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:04 - ERROR - 8.3.3 - 72.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:04 - ERROR - 8.3.3 - 72.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:04 - ERROR - 8.3.3 - 72.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:04 - ERROR - 8.3.3 - 72.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:04 - ERROR - 8.3.3 - 72.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:04 - ERROR - 8.3.3 - 72.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-05-2024 06:00:04 - ERROR - 8.3.3 - 72.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:05 - ERROR - 8.3.3 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Requested size larger than the original one
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+31-05-2024 06:00:06 - ERROR - 8.3.3 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+

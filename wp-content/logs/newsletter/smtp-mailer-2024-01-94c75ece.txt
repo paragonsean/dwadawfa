@@ -1,0 +1,100 @@
+02-01-2024 09:32:07 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: amollohot@geminiesports.in: Temporary local problem - please try later
+
+02-01-2024 10:02:32 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: somyaranjan@geminiesports.in: Temporary local problem - please try later
+
+02-01-2024 10:12:38 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: kieran.lam@academyofesports.com.my: The mail server could not deliver mail to
+kieran.lam@academyofesports.com.my.  The account or domain may not exist,
+they may be blacklisted, or missing the proper dns entries.
+
+02-01-2024 10:17:17 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: kalyan@geminiesports.in: Temporary local problem - please try later
+
+02-01-2024 11:17:04 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: bsuman@esic-sn.fr: The mail server could not deliver mail to bsuman@esic-sn.fr.  The account
+or domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+
+02-01-2024 13:07:15 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: kmuthuswamy@esic-sn.fr: The mail server could not deliver mail to kmuthuswamy@esic-sn.fr.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 13:12:07 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: icataldo@malvinasgaming.com.ar: The mail server could not deliver mail to icataldo@malvinasgaming.com.ar. 
+The account or domain may not exist, they may be blacklisted, or missing
+the proper dns entries.
+
+02-01-2024 13:26:57 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: r.collenghi@anon-esports.gg: The mail server could not deliver mail to r.collenghi@anon-esports.gg.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 15:37:15 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: liam.quinn@leseesports.com.au: The mail server could not deliver mail to liam.quinn@leseesports.com.au. 
+The account or domain may not exist, they may be blacklisted, or missing
+the proper dns entries.
+
+02-01-2024 16:07:11 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: isadora@hackingesports.com: The mail server could not deliver mail to isadora@hackingesports.com.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 16:21:59 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: alberh@futurestation.org: The mail server could not deliver mail to alberh@futurestation.org.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 16:42:02 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: andrian.husen@federasiesportsindonesia.org: The mail server could not deliver mail to
+andrian.husen@federasiesportsindonesia.org.  The account or domain may not
+exist, they may be blacklisted, or missing the proper dns entries.
+
+02-01-2024 20:07:02 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: sounab@lostesports.com: The mail server could not deliver mail to sounab@lostesports.com.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 20:27:03 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: josh.pascoe@axibyte.gg: The mail server could not deliver mail to josh.pascoe@axibyte.gg.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 21:32:34 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: sally@discoveresports.gg: The mail server could not deliver mail to sally@discoveresports.gg.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 21:42:07 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: tbarfield@player1ne.gg: The mail server could not deliver mail to tbarfield@player1ne.gg.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+02-01-2024 22:42:19 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: jackson@pepper.gg: The mail server could not deliver mail to jackson@pepper.gg.  The account
+or domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+
+02-01-2024 23:17:03 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: eduard@appgrade.es: Temporary local problem - please try later
+
+02-01-2024 23:17:06 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: abhisek.maharana@unitedgamershideout.com: The mail server could not deliver mail to
+abhisek.maharana@unitedgamershideout.com.  The account or domain may not
+exist, they may be blacklisted, or missing the proper dns entries.
+
+03-01-2024 01:27:17 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: kpandey@esic-sn.fr: The mail server could not deliver mail to kpandey@esic-sn.fr.  The account
+or domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+
+03-01-2024 01:37:03 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: snarwaria@esic-sn.fr: The mail server could not deliver mail to snarwaria@esic-sn.fr.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+03-01-2024 01:42:03 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: vamirtham@esic-sn.fr: The mail server could not deliver mail to vamirtham@esic-sn.fr.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+
+03-01-2024 02:12:05 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: kram@esic-sn.fr: The mail server could not deliver mail to kram@esic-sn.fr.  The account or
+domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+
+03-01-2024 02:17:09 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: sdube@esic-sn.fr: The mail server could not deliver mail to sdube@esic-sn.fr.  The account or
+domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+
+03-01-2024 02:22:02 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: yrai@esic-sn.fr: The mail server could not deliver mail to yrai@esic-sn.fr.  The account or
+domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+
+03-01-2024 02:48:06 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: eric@desperado.gg: The mail server could not deliver mail to eric@desperado.gg.  The account
+or domain may not exist, they may be blacklisted, or missing the proper dns
+entries.
+
+03-01-2024 02:57:15 - ERROR - 8.0.6 - 23.4 MB/1,000 MB - [cron] > SMTP Error: The following recipients failed: alberto.lopez@footai.es: The mail server could not deliver mail to alberto.lopez@footai.es.  The
+account or domain may not exist, they may be blacklisted, or missing the
+proper dns entries.
+

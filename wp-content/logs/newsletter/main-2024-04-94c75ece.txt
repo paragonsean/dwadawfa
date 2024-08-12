@@ -1,0 +1,458 @@
+04-04-2024 08:56:55 - ERROR - 8.0.7 - 95.1 MB/1,000 MB -  > TNP_Mailer_Message Object
+(
+    [ch] => 
+    [to] => ggjrex@gmail.com
+    [to_name] => 
+    [headers] => Array
+        (
+        )
+
+    [user_id] => 1904
+    [email_id] => 10
+    [error] => Message body empty
+    [subject] => Welcome
+    [body] => 
+    [body_text] => 
+    [from] => newsletter@fanz.news
+    [from_name] => Esports News for dakdan worldwide Dan Kost
+)
+
+04-04-2024 08:56:55 - ERROR - 8.0.7 - 95.1 MB/1,000 MB -  > Message body empty (1) - 
+15-04-2024 06:00:07 - ERROR - 8.0.7 - 98.4 MB/1,000 MB - [cron] > Requested size larger than the original one
+15-04-2024 06:00:07 - ERROR - 8.0.7 - 98.4 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/04/news_107768.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/04/news_107768.png
+15-04-2024 06:00:07 - ERROR - 8.0.7 - 98.4 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/04/news_107768.png
+16-04-2024 06:00:00 - ERROR - 8.0.7 - 54.2 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/04/news_108055.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/04/news_108055.png
+16-04-2024 06:00:00 - ERROR - 8.0.7 - 54.2 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/04/news_108055.png
+18-04-2024 06:00:06 - ERROR - 8.3.0 - 96.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+18-04-2024 06:00:06 - ERROR - 8.3.0 - 97.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+18-04-2024 06:00:07 - ERROR - 8.3.0 - 97.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+18-04-2024 06:00:07 - ERROR - 8.3.0 - 97.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+18-04-2024 06:00:07 - ERROR - 8.3.0 - 97.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+18-04-2024 06:00:07 - ERROR - 8.3.0 - 97.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+18-04-2024 06:00:07 - ERROR - 8.3.0 - 97.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+18-04-2024 06:00:07 - ERROR - 8.3.0 - 97.2 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:40 - ERROR - 8.3.0 - 98.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:40 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:40 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:40 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:40 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:40 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:40 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:41 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+19-04-2024 06:00:41 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/04/news_108466.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/04/news_108466.png
+19-04-2024 06:00:41 - ERROR - 8.3.0 - 99.3 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/04/news_108466.png
+22-04-2024 06:00:08 - ERROR - 8.3.0 - 71.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-04-2024 06:00:08 - ERROR - 8.3.0 - 72.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-04-2024 06:00:08 - ERROR - 8.3.0 - 72.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-04-2024 06:00:08 - ERROR - 8.3.0 - 72.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-04-2024 06:00:08 - ERROR - 8.3.0 - 72.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-04-2024 06:00:08 - ERROR - 8.3.0 - 72.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-04-2024 06:00:08 - ERROR - 8.3.0 - 72.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+22-04-2024 06:00:09 - ERROR - 8.3.0 - 72.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:03 - ERROR - 8.3.0 - 68.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:03 - ERROR - 8.3.0 - 68.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:03 - ERROR - 8.3.0 - 68.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:03 - ERROR - 8.3.0 - 68.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:03 - ERROR - 8.3.0 - 68.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:04 - ERROR - 8.3.0 - 68.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:04 - ERROR - 8.3.0 - 68.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+23-04-2024 06:00:04 - ERROR - 8.3.0 - 68.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:14 - ERROR - 8.3.0 - 97.3 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:14 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:14 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:14 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:14 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:14 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:15 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+24-04-2024 06:00:15 - ERROR - 8.3.0 - 97.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:48 - ERROR - 8.3.0 - 65.0 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:48 - ERROR - 8.3.0 - 65.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:48 - ERROR - 8.3.0 - 65.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:49 - ERROR - 8.3.0 - 65.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:49 - ERROR - 8.3.0 - 65.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:49 - ERROR - 8.3.0 - 65.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:49 - ERROR - 8.3.0 - 65.4 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+25-04-2024 06:00:49 - ERROR - 8.3.0 - 65.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+26-04-2024 06:00:03 - ERROR - 8.3.0 - 72.5 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+26-04-2024 06:00:03 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > Requested size larger than the original one
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/04/news_109550.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/04/news_109550.png
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/04/news_109550.png
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/04/news_109542.png' @ error/png.c/ReadPNGImage/4194 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/04/news_109542.png
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/04/news_109542.png
+26-04-2024 06:00:04 - ERROR - 8.3.0 - 72.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:00 - ERROR - 8.3.0 - 97.6 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:00 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+29-04-2024 06:00:01 - ERROR - 8.3.0 - 97.9 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:08 - ERROR - 8.3.0 - 97.7 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:08 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:08 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:08 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+
+30-04-2024 06:00:09 - ERROR - 8.3.0 - 98.1 MB/1,000 MB - [cron] > Array
+(
+    [0] => 600
+    [1] => 0
+)
+

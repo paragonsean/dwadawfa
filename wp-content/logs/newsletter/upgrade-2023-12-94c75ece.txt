@@ -1,0 +1,33 @@
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 125.2 MB/1 GB -  > Start upgrade from 8.0.4
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.2 MB/1 GB -  > Array
+(
+    [`heOsWlz9_newsletter_emails`] => Created table `heOsWlz9_newsletter_emails`
+)
+
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.2 MB/1 GB -  > Array
+(
+    [`heOsWlz9_newsletter_sent`] => Created table `heOsWlz9_newsletter_sent`
+)
+
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.2 MB/1 GB -  > Array
+(
+    [`heOsWlz9_newsletter`] => Created table `heOsWlz9_newsletter`
+)
+
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.2 MB/1 GB -  > Array
+(
+    [`heOsWlz9_newsletter_user_logs`] => Created table `heOsWlz9_newsletter_user_logs`
+)
+
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.2 MB/1 GB -  > Array
+(
+    [`heOsWlz9_newsletter_user_meta`] => Created table `heOsWlz9_newsletter_user_meta`
+)
+
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.2 MB/1 GB -  > Array
+(
+    [`heOsWlz9_newsletter_stats`] => Created table `heOsWlz9_newsletter_stats`
+)
+
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.2 MB/1 GB -  > Backing up options of 8.0.4
+09-12-2023 08:41:13 - INFO  - 8.0.6 - 129.3 MB/1 GB -  > End

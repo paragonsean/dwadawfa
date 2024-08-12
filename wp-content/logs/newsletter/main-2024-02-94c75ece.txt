@@ -1,0 +1,20 @@
+02-02-2024 06:00:03 - ERROR - 8.0.7 - 97.9 MB/1,000 MB - [cron] > unable to open file `/tmp/magick-25010bOiloG7hU49r': No such file or directory @ error/constitute.c/ReadImage/604 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_96945.png
+02-02-2024 06:00:03 - ERROR - 8.0.7 - 97.9 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_96945.png
+05-02-2024 06:00:23 - ERROR - 8.0.7 - 98.7 MB/1,000 MB - [cron] > unable to open file `/tmp/magick-18647ELlALSEYpxnq': No such file or directory @ error/constitute.c/ReadImage/604 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_97368.png
+05-02-2024 06:00:23 - ERROR - 8.0.7 - 98.7 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_97368.png
+09-02-2024 06:00:05 - ERROR - 8.0.7 - 18.8 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/02/news_98191.png' @ error/png.c/ReadPNGImage/4104 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_98191.png
+09-02-2024 06:00:05 - ERROR - 8.0.7 - 18.8 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_98191.png
+09-02-2024 06:00:05 - ERROR - 8.0.7 - 18.8 MB/1,000 MB - [cron] > Requested size larger than the original one
+13-02-2024 06:00:08 - ERROR - 8.0.7 - 95.5 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/02/news_98814.png' @ error/png.c/ReadPNGImage/4104 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_98814.png
+13-02-2024 06:00:08 - ERROR - 8.0.7 - 95.5 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_98814.png
+13-02-2024 06:00:08 - ERROR - 8.0.7 - 95.5 MB/1,000 MB - [cron] > Requested size larger than the original one
+14-02-2024 06:00:32 - ERROR - 8.0.7 - 22.3 MB/1,000 MB - [cron] > unable to open file `/tmp/magick-17694q42ut14qI8Da': No such file or directory @ error/constitute.c/ReadImage/604 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_99055.png
+14-02-2024 06:00:32 - ERROR - 8.0.7 - 22.3 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_99055.png
+15-02-2024 06:00:36 - ERROR - 8.0.7 - 99.7 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/02/news_99254.png' @ error/png.c/ReadPNGImage/4104 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_99254.png
+15-02-2024 06:00:36 - ERROR - 8.0.7 - 99.7 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_99254.png
+15-02-2024 06:00:36 - ERROR - 8.0.7 - 99.7 MB/1,000 MB - [cron] > Requested size larger than the original one
+23-02-2024 06:00:17 - ERROR - 8.0.7 - 94.9 MB/1,000 MB - [cron] > unable to open file `/tmp/magick-17093LvQR6t67qrB2': No such file or directory @ error/constitute.c/ReadImage/604 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_100251.png
+23-02-2024 06:00:17 - ERROR - 8.0.7 - 94.9 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_100251.png
+29-02-2024 06:00:11 - ERROR - 8.0.7 - 73.2 MB/1,000 MB - [cron] > improper image header `/home/fanznews/public_html/wp-content/uploads/2024/02/news_100808.png' @ error/png.c/ReadPNGImage/4104 (invalid_image) - /home/fanznews/public_html/wp-content/uploads/2024/02/news_100808.png
+29-02-2024 06:00:11 - ERROR - 8.0.7 - 73.2 MB/1,000 MB - [cron] > File: /home/fanznews/public_html/wp-content/uploads/2024/02/news_100808.png
+29-02-2024 06:00:11 - ERROR - 8.0.7 - 73.2 MB/1,000 MB - [cron] > Requested size larger than the original one

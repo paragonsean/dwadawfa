@@ -1,0 +1,39 @@
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 109.3 MB/1,000 MB -  > Start upgrade from 8.3.0
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_emails`] => Created table `heOsWlz9_newsletter_emails`
+)
+
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_sent`] => Created table `heOsWlz9_newsletter_sent`
+)
+
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter`] => Created table `heOsWlz9_newsletter`
+)
+
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_user_logs`] => Created table `heOsWlz9_newsletter_user_logs`
+)
+
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_user_meta`] => Created table `heOsWlz9_newsletter_user_meta`
+)
+
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_stats`] => Created table `heOsWlz9_newsletter_stats`
+)
+
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_logs`] => Created table `heOsWlz9_newsletter_logs`
+    [heOsWlz9_newsletter_logs.status] => Changed type of heOsWlz9_newsletter_logs.status from int(11) to int
+)
+
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > Backing up options of 8.3.0
+25-05-2024 10:41:05 - INFO  - 8.3.3 - 114.0 MB/1,000 MB -  > End

@@ -1,0 +1,42 @@
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Michael,Heft,Owner,Vyb Esports,No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: FIFA Esports athlete.,New: All India Football Federation,
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Unknown at this time,New:,
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Cesar,Varo,Head Of Global Design,Esports Entertainment Group (NASDAQ: GMBL),No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Lance,Peterson,Talent Development,"Cloud9 Esports, Inc.",No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Unknown at this time,New:,
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Owner,New: Elis Dış Ticaret,
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: FIFA Esports athlete.,New: All India Football Federation,
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Jeff,Lewis,Vice President,Trifecta Media,No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Rahmansyah,Anwar,Chief Commercial Officer (CCO),Garudaku (PB ESI),No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Michael,Heft,Owner,Vyb Esports,No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Unknown at this time,New:,
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Agente comercial,New: Marcatel,
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Manickam,Kailaimurugan,Vice President Operations,Playtonia esports,No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Corey,Csakai,Owner,"Esports Healthcare, LLC",No email
+27-11-2023 07:53:40 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Florencia,Rolon,Equipo de Producción Show de Maluma,Dale Play Entertainment,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Unknown at this time,New:,
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Johannes,Ryynanen,Marketing Assistant,KAJAK Esports,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Kat,Szczesna,Digital Marketing Manager,CinemaItaliaUK,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Sankar,Rathinasabapathy,Senior Executive Human Resources,Playtonia esports,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Florencia,Rolon,Equipo de Producción Show de Maluma,Dale Play Entertainment,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Redzi,Pratama,Senior Associate Editor,ONE Esports,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Natalia,Gutierrez,Sr Graphic Designer,zebras.mx,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Natalia,Gutierrez,Sr Graphic Designer,zebras.mx,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Vatsal,Uniyal,Head of Esports,Global Esports,No email
+27-11-2023 07:53:41 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Senior Copywriter,New: iMate Group Inc.,
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Sara,,Co-CEO & CCO,Kumiho Esports Club,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Josue,Gomez,Coordinador de Rentabilidad,SIX KARMA Esports,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Andrew,Loekmanto,Event Coordinator,ONE Esports,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Director PR & Corporate Communications,New: Cow Level - Fintech for Gaming 🐮🎮,
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Simone,Zangrilli,Esports Manager,eSports Academy,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Riikka,Paksuniemi,Content Manager,KAJAK Esports,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Nguyen,Kiet,Creative Designer,Mineski Global,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Jasmine,Chakra,Head Of Digital and Social,Offbeet Esports,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,"New: Senior Director, Interscope.com",New: Universal Music Group,
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Unknown at this time,New:,
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Joshua,Nsubuga,Managing Director,Cyclical,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Alex,Pique,CEO,El Templo eSports,No email
+27-11-2023 07:53:42 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Benjamin,Chin,Content Marketing Executive,ESPL Esports Players League,No email
+27-11-2023 07:53:43 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Jake,Murton,Production Manager,Promod,No email
+27-11-2023 07:53:43 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Brandon,Smith,Senior Business Development,Creative Technology,No email
+27-11-2023 07:53:43 - FATAL - 8.0.4 - 31.7 MB/1,000 MB - web-interns@dakdan.com > Invalid email on line Update,Available,New: Chief Marketing & Innovation Officer,New: Virtus.pro,

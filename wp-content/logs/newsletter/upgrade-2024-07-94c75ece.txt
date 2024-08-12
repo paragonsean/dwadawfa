@@ -1,0 +1,79 @@
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.1 MB/1,000 MB -  > Start upgrade from 8.3.3
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_emails`] => Created table `heOsWlz9_newsletter_emails`
+)
+
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_sent`] => Created table `heOsWlz9_newsletter_sent`
+)
+
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter`] => Created table `heOsWlz9_newsletter`
+)
+
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_user_logs`] => Created table `heOsWlz9_newsletter_user_logs`
+)
+
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_user_meta`] => Created table `heOsWlz9_newsletter_user_meta`
+)
+
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_stats`] => Created table `heOsWlz9_newsletter_stats`
+)
+
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Array
+(
+    [`heOsWlz9_newsletter_logs`] => Created table `heOsWlz9_newsletter_logs`
+    [heOsWlz9_newsletter_logs.status] => Changed type of heOsWlz9_newsletter_logs.status from int(11) to int
+)
+
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > Backing up options of 8.3.3
+09-07-2024 00:42:52 - INFO  - 8.4.3 - 24.4 MB/1,000 MB -  > End
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 128.7 MB/1,000 MB - web-interns@dakdan.com > Start upgrade from 8.4.3
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Array
+(
+    [`heOsWlz9_newsletter_emails`] => Created table `heOsWlz9_newsletter_emails`
+)
+
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Array
+(
+    [`heOsWlz9_newsletter_sent`] => Created table `heOsWlz9_newsletter_sent`
+)
+
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Array
+(
+    [`heOsWlz9_newsletter`] => Created table `heOsWlz9_newsletter`
+)
+
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Array
+(
+    [`heOsWlz9_newsletter_user_logs`] => Created table `heOsWlz9_newsletter_user_logs`
+)
+
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Array
+(
+    [`heOsWlz9_newsletter_user_meta`] => Created table `heOsWlz9_newsletter_user_meta`
+)
+
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Array
+(
+    [`heOsWlz9_newsletter_stats`] => Created table `heOsWlz9_newsletter_stats`
+)
+
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Array
+(
+    [`heOsWlz9_newsletter_logs`] => Created table `heOsWlz9_newsletter_logs`
+    [heOsWlz9_newsletter_logs.status] => Changed type of heOsWlz9_newsletter_logs.status from int(11) to int
+)
+
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Deleting settings backup newsletter_backup_0.0.0
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.7 MB/1,000 MB - web-interns@dakdan.com > Backing up options of 8.4.3
+29-07-2024 15:40:14 - INFO  - 8.4.7 - 131.8 MB/1,000 MB - web-interns@dakdan.com > End

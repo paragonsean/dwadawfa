@@ -1,0 +1,2 @@
+04-12-2023 23:17:14 - ERROR - 8.0.4 - 28.0 MB/1,000 MB -  > Open tracking request for unexistant email
+20-12-2023 23:13:02 - ERROR - 8.0.6 - 22.6 MB/1,000 MB -  > Open tracking request for unexistant email
