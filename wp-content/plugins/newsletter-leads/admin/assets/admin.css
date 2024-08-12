@@ -1,0 +1,99 @@
+
+.tnp-option-color {
+    display: block;
+    width: 150px;
+    padding: 10px 15px;
+    float: left;
+    margin: 2px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.tnp-option-color.autumn {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/autumn@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.tnp-option-color.summer {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/summer@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.tnp-option-color.winter {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/winter@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.tnp-option-color.spring {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/spring@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.tnp-option-color.sunset {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/sunset@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.tnp-option-color.sky {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/sky@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.tnp-option-color.night {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/night@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+.tnp-option-color.forest {
+    position:relative;
+    background-image: url(../wp-content/plugins/newsletter-leads/images/forest@2x.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+#options-position {
+    width:100px;
+}
+
+
+/* Tnp Tooltips */
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+
+
+
+
+/* Override Buttons */
+
+.wp-core-ui input[type="button"]   {
+    background: #27AE60;
+    border-radius: 0px;
+    text-shadow: none;
+}
+
+.wp-core-ui input[type="button"]:hover {
+    background-color: #2ECC71;
+}
+
+.wp-core-ui .button-primary {
+    border-radius: 0px;
+    text-shadow: none;
+}
